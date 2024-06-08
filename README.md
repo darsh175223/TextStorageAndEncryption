@@ -1,5 +1,8 @@
 # Text Storer Application
 
+![textStorageProgramMainMenu](https://github.com/darsh175223/TextStorageAndEncryption/assets/107499880/e17e8e19-466d-425a-8f23-0885e3b343ab)
+
+
 ## Overview
 
 The Text Storer Application is a Python-based GUI program for storing and retrieving text data using a JSON database. It supports both normal and line-by-line storage modes, with encryption for the stored text. The GUI is implemented using Tkinter, and encryption is handled by the `cryptography` library.
